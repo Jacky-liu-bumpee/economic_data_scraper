@@ -1,0 +1,17 @@
+.DS_Store
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+venv2/
+__pycache__/
+*.pyc
+
+.claude/
+
+output/*
+!output/.gitkeep
+
+tmp_backup/
